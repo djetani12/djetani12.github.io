@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: rgb(240, 237, 238);
+    font-family: monospace;
+    padding: 40px;
+  }
+  a.slink {
+    color: #0ff;
+    margin-right: 10px;
+  }
+  .copyLink {
+    display: block;
+    margin-top: 10px;
+    color: #f66;
+    cursor: pointer;
+  }
+  
